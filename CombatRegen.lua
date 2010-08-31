@@ -168,7 +168,6 @@ function CombatRegen:VARIABLES_LOADED()
 end
 
 
-
 --FRS Bar create ########################################
 FSRBar = CreateFrame("StatusBar", FSRBar, UIParent)
 
