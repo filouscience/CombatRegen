@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: CombatRegen 2.0
+## Version: v2.0
+## Author: OJaaaa
+
+CombatRegen.lua
+
+
